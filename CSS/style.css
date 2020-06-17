@@ -1,3 +1,26 @@
 body {
-    background: rgb(224, 142, 142)
+    background: rgb(224, 142, 142);
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+header {
+    margin-top: 70px;
+}
+
+h1 {
+    color: red;
+    font-family: fantasy;
+}
+
+h2 {
+    font-family: cursive;
+}
+
+p {
+    font-size: 18px;
+}
+
+img {
+    margin-bottom: 50px; 
 }
